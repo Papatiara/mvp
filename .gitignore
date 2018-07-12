@@ -1,3 +1,8 @@
+node_modules
+.DS_store
+public/
+/indicoio.config.js
+
 ### node etc ###
 
 # Logs
